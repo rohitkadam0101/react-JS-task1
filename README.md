@@ -1,4 +1,4 @@
 # react-JS-task1
 APSSDC ReactJS Task 1
-Simple Profile Cards made with HTML and CSS without Bootstrap
+Simple Profile Cards made with HTML and CSS without Bootstrap<br>
 Link -> https://rohitkadam0101.github.io/react-JS-task1/
